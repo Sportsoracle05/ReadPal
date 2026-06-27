@@ -61,19 +61,23 @@ DB_PORT=3306
 DB_DATABASE=readpal_db
 DB_USERNAME=root
 DB_PASSWORD=your_password
+
 5. Generate Application Key
 Bash
 php artisan key:generate
+
 6. Run Database Migrations & Seeders
 Create the database tables and populate them with necessary initial data:
 
 Bash
 php artisan migrate --seed
+
 7. Link Storage
 Create a symbolic link from public/storage to storage/app/public to handle file uploads (like lecture notes):
 
 Bash
 php artisan storage:link
+
 8. Serve the Application
 For local deployment, start the Laravel development server:
 
