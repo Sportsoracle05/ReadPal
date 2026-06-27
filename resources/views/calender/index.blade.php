@@ -118,7 +118,7 @@
       </div>
       <div class="overflow-hidden" style="height:280px;">
         <iframe
-          src="https://calendar.google.com/calendar/embed?height=600&wkst=1&ctz=Africa%2FLagos&showPrint=0&showTz=0&title=ReadPal&showCalendars=0&src=Zmxla3NzcG9ydHNAZ21haWwuY29t&src=ZW4ubmcjaG9saWRheUBncm91cC52LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%23039be5&color=%230b8043"
+          src=""
           style="border:0;filter:invert(88%) hue-rotate(175deg) saturate(.75) brightness(.9);"
           width="100%" height="280" frameborder="0" scrolling="no">
         </iframe>
