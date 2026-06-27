@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is a data structure?",
+        "options": {
+            "A": "A specific way of organizing and storing data in a computer.",
+            "B": "A programming language.",
+            "C": "An algorithm.",
+            "D": "A type of software."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following is a characteristic of arrays?",
+        "options": {
+            "A": "Elements are stored in contiguous memory locations.",
+            "B": "Elements can be accessed using pointers.",
+            "C": "They can store different data types.",
+            "D": "They do not have a fixed size."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "What type of data structure is a stack?",
+        "options": {
+            "A": "LIFO (Last-In, First-Out)",
+            "B": "FIFO (First-In, First-Out)",
+            "C": "Hierarchical",
+            "D": "Network-based"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "What defines a queue?",
+        "options": {
+            "A": "LIFO structure.",
+            "B": "FIFO structure.",
+            "C": "Allows random access.",
+            "D": "Contains only numerical data."
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which type of data structure consists of nodes connected by edges?",
+        "options": {
+            "A": "Graphs",
+            "B": "Arrays",
+            "C": "Heaps",
+            "D": "Stacks"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is an algorithm?",
+        "options": {
+            "A": "A set of well-defined instructions to solve a specific problem.",
+            "B": "A type of programming language.",
+            "C": "A data storage method.",
+            "D": "A graphical representation of data."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following is NOT a common algorithm category?",
+        "options": {
+            "A": "Searching Algorithms",
+            "B": "Sorting Algorithms",
+            "C": "Data Structures Algorithms",
+            "D": "Graph Algorithms"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "What does time complexity measure?",
+        "options": {
+            "A": "The amount of time an algorithm takes to run.",
+            "B": "The amount of memory an algorithm uses.",
+            "C": "The complexity of the data structure.",
+            "D": "The number of inputs an algorithm can handle."
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which characteristic of algorithms ensures steps are clear and unambiguous?",
+        "options": {
+            "A": "Definiteness",
+            "B": "Finiteness",
+            "C": "Effectiveness",
+            "D": "Input"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "What is a common application of dynamic programming?",
+        "options": {
+            "A": "Solving complex problems by breaking them into overlapping subproblems.",
+            "B": "Sorting data in a linear fashion.",
+            "C": "Mapping keys to values.",
+            "D": "Creating graphs."
+        },
+        "correct_answer": "A"
+    }
+]

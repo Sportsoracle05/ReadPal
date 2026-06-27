@@ -1,0 +1,102 @@
+[
+    {
+        "question": "What is sociology primarily concerned with?",
+        "options": {
+            "A": "Human societies and their interactions",
+            "B": "Animal behavior",
+            "C": "Individual psychology",
+            "D": "Mathematical models"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following is NOT a constituent part of societies studied by sociology?",
+        "options": {
+            "A": "Institutions",
+            "B": "Communities",
+            "C": "Individual traits",
+            "D": "Age groups"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "What type of social phenomenon does sociology examine?",
+        "options": {
+            "A": "Social movements",
+            "B": "Chemical reactions",
+            "C": "Mathematical patterns",
+            "D": "Physical laws"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "What do humans rely on to guide their decisions and actions?",
+        "options": {
+            "A": "Instincts",
+            "B": "Social institutions",
+            "C": "Nature",
+            "D": "Psychological traits"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which of the following is an example of a basic organizational structure in sociology?",
+        "options": {
+            "A": "Clubs",
+            "B": "Biological systems",
+            "C": "Astronomical bodies",
+            "D": "Geological features"
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which social science is sociology most closely related to in terms of breadth?",
+        "options": {
+            "A": "Economics",
+            "B": "Anthropology",
+            "C": "Political science",
+            "D": "Linguistics"
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which other disciplines does sociology overlap with?",
+        "options": {
+            "A": "Physics and chemistry",
+            "B": "Anthropology and biology",
+            "C": "Economics and psychology",
+            "D": "Astronomy and geology"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "What distinguishes sociology from other social sciences?",
+        "options": {
+            "A": "Its isolation from societal context",
+            "B": "Its exclusive focus on individual behavior",
+            "C": "Its larger societal context for explaining phenomena",
+            "D": "Its reliance on mathematical equations"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "In sociology, which aspect of psychology is particularly relevant?",
+        "options": {
+            "A": "Abnormal psychology",
+            "B": "Cognitive psychology",
+            "C": "Social psychology",
+            "D": "Developmental psychology"
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "What aspect of human behavior does sociology primarily focus on?",
+        "options": {
+            "A": "Individual psychological mechanisms",
+            "B": "Collective aspects",
+            "C": "Genetic predispositions",
+            "D": "Emotional responses"
+        },
+        "correct_answer": "B"
+    }
+]
